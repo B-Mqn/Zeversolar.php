@@ -5,6 +5,7 @@ Its work in progress and having a few missed uploads every so often but unsure i
 
 I run as a Cron task in 5 min intervals on my Pi as below.
 
-crontab -e
+`crontab -e`
 
-*/5 * * * * /usr/bin/php /home/pi/zever.php
+`*/5 * * * * /usr/bin/php /home/pi/zever.php
+`
